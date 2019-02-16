@@ -2,7 +2,7 @@ title: Superhealth.GitHub.io
 description: superhealth blog
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
